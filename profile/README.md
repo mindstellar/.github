@@ -41,7 +41,7 @@ with no licence fees, no lock-in, and extensions that keep working after an upgr
   </tr>
 </table>
 
-## Shopclass
+## ShopClass
 
 <p>
   <a href="https://github.com/mindstellar/shopclass/releases/latest"><img src="https://img.shields.io/github/v/release/mindstellar/shopclass?label=stable&color=0b7269&style=flat-square" alt="Stable release"></a>
@@ -52,7 +52,7 @@ with no licence fees, no lock-in, and extensions that keep working after an upgr
   <a href="https://github.com/mindstellar/shopclass/stargazers"><img src="https://img.shields.io/github/stars/mindstellar/shopclass?color=0f2742&style=flat-square" alt="Stars"></a>
 </p>
 
-**[Shopclass](https://github.com/mindstellar/shopclass)** is a free, self-hosted classifieds CMS in PHP,
+**[ShopClass](https://github.com/mindstellar/shopclass)** is a free, self-hosted classifieds CMS in PHP,
 and the maintained successor to Osclass. Run a site for jobs, property, vehicles or anything else.
 
 - Listings with photos, categories, custom fields and locations
@@ -66,7 +66,7 @@ and the maintained successor to Osclass. Run a site for jobs, property, vehicles
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mindstellar/.github/main/profile/ecosystem-dark.svg">
-  <img src="https://raw.githubusercontent.com/mindstellar/.github/main/profile/ecosystem-light.svg" width="100%" alt="The Shopclass core with its themes, plugins, translations, location data and registries.">
+  <img src="https://raw.githubusercontent.com/mindstellar/.github/main/profile/ecosystem-light.svg" width="100%" alt="The ShopClass core with its themes, plugins, translations, location data and registries.">
 </picture>
 
 ### Themes
@@ -95,7 +95,7 @@ and the maintained successor to Osclass. Run a site for jobs, property, vehicles
 
 | Repository | What it does |
 |---|---|
-| [**shopclass-i18n**](https://github.com/mindstellar/shopclass-i18n) | Every language Shopclass ships in. A merged translation reaches sites without a new release. |
+| [**shopclass-i18n**](https://github.com/mindstellar/shopclass-i18n) | Every language ShopClass ships in. A merged translation reaches sites without a new release. |
 | [**location-data**](https://github.com/mindstellar/location-data) | Countries, regions and 1.6M+ places from Wikidata, published CC0, with the pipeline that builds it. |
 
 ## How it is built
@@ -108,7 +108,7 @@ and the maintained successor to Osclass. Run a site for jobs, property, vehicles
 
 ## Get involved
 
-- Try the [live demo](https://demo.mindstellar.com), or [install Shopclass](https://mindstellar.com/docs/) on your own hosting.
+- Try the [live demo](https://demo.mindstellar.com), or [install ShopClass](https://mindstellar.com/docs/) on your own hosting.
 - Found a bug or want a feature? [Open an issue](https://github.com/mindstellar/shopclass/issues).
 - Speak another language? [Help translate](https://github.com/mindstellar/shopclass-i18n).
 - Built a plugin or theme? Add it to the [plugin](https://github.com/mindstellar/shopclass-plugins) or [theme](https://github.com/mindstellar/shopclass-themes) registry.
@@ -116,4 +116,4 @@ and the maintained successor to Osclass. Run a site for jobs, property, vehicles
 
 ---
 
-<sub>Mindstellar is the open-source work of Navjot Tomer, with contributions from the people who run Shopclass.</sub>
+<sub>Mindstellar is the open-source work of Navjot Tomer, with contributions from the people who run ShopClass.</sub>
